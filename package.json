@@ -1,0 +1,19 @@
+{
+  "name": "hexo-embed-hatena-blog-card",
+  "version": "1.0.0",
+  "description": "generate hatena blog card embed tag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shundroid/hexo-embed-hatena-blog-card.git"
+  },
+  "author": "shundroid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shundroid/hexo-embed-hatena-blog-card/issues"
+  },
+  "homepage": "https://github.com/shundroid/hexo-embed-hatena-blog-card#readme"
+}
